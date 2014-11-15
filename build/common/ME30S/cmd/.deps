@@ -1,0 +1,130 @@
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/main.o: main.c \
+ F:/Code/Mpos_Demo/libs/NDK.h F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_command.o: mpos_command.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdlib.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_kb.h F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_alg.h F:/Code/Mpos_Demo/inc/mpos_api_bt.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/inc/me30_keysManager.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_lcd.o: mpos_cmd_lcd.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_kb.o: mpos_cmd_kb.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_lcd.h F:/Code/Mpos_Demo/inc/mpos_api_kb.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_file.o: mpos_cmd_file.c \
+ F:/Code/Mpos_Demo/libs/NDK.h F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_mag.o: mpos_cmd_mag.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_alg.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_ic.o: mpos_cmd_ic.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_rfid.o: mpos_cmd_rfid.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_auth.o: mpos_cmd_auth.c \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_bt.h F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_alg.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_pinpad.o: \
+ mpos_cmd_pinpad.c F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_kb.h F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_alg.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_getpin.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h
+F:\Code\Mpos_Demo\build\common\ME30S\cmd/mpos_cmd_term.o: mpos_cmd_term.c \
+ F:/Code/Mpos_Demo/libs/NDK.h F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/unistd.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdint.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdlib.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_tlv.h F:/Code/Mpos_Demo/inc/mpos_api_bt.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h F:/Code/Mpos_Demo/inc/interface.h

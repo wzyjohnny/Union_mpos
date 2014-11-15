@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb2312"?>
+<NLD type="app">
+	<name>mapp</name>
+	<file>common_ME30F.bin</file>
+	<flash>/dev/soc_flash</flash>
+</NLD>

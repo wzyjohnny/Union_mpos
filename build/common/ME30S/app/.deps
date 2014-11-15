@@ -1,0 +1,11 @@
+F:\Code\Mpos_Demo\build\common\ME30S\app/mpos_cmd_common.o: \
+ mpos_cmd_common.c F:/Code/Mpos_Demo/libs/libc_inc/stdlib.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/types.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/string.h F:/Code/Mpos_Demo/libs/NDK.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/stdio.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/time.h \
+ F:/Code/Mpos_Demo/libs/libc_inc/sys/socket.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_kb.h F:/Code/Mpos_Demo/inc/mpos_api_lcd.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_alg.h \
+ F:/Code/Mpos_Demo/inc/mpos_command.h \
+ F:/Code/Mpos_Demo/inc/mpos_api_frame.h
